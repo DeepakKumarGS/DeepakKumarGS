@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a data analyst and I love to explore and uncover insights with data.Check out my repos on insights to diverse range of datasets.
+
 <!--
 **DeepakKumarGS/DeepakKumarGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
